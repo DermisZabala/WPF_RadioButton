@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\bin\Debug\WPF_RadioButton.exe.config
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\bin\Debug\WPF_RadioButton.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\bin\Debug\WPF_RadioButton.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.AssemblyReference.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\App.g.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton_MarkupCompile.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton_MarkupCompile.lref
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\MainWindow.baml
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.g.resources
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.Properties.Resources.resources
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.GenerateResource.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_RadioButton\obj\Debug\WPF_RadioButton.pdb
